@@ -7,7 +7,15 @@
 `Eixo 2`
 
 
+
 O objetivo geral do projeto é a criação de um sistema que permita o usuário ter fácil acesso a uma variedade de livros físicos a fim de que possa reservá-los para fins estudantis ou pessoais. 
+
+Objetivos específicos :
+
+* Permitir que o usuário consulte os livros disponíveis na biblioteca.
+* Fornecer funcionalidades que permitam ao usuário reservar o livro desejado. 
+* Permitir que o usuário faça extensão do prazo de reserva ou devolva antecipadamente. 
+
 
 Objetivos específicos :
 
