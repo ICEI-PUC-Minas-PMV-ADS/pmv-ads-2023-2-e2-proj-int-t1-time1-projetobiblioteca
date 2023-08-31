@@ -10,11 +10,12 @@ O objetivo geral do projeto é a criação de um sistema que permita o usuário 
 
 ## Integrantes
 
-* Silvestre Castro
-* Ramon Resende
-* João Victor
-* Marcelo Cortez
-* Lucas Salino
+*Ana Clara de Oliveira Ferreira
+*Gabriel Russo Grilo
+*Isaac Heder Ferreira Paulo
+*João Victor Martins Pereira
+*Lucas Henrique Vasconcelos Siqueira
+*Ricardo Gomes Vieira
 
 ## Orientador
 
