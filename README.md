@@ -29,7 +29,7 @@ Objetivos específicos :
 
 ## Orientador
 
-* ????
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 

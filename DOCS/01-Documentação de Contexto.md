@@ -7,13 +7,11 @@ Nem todo o conhecimento está disponível de forma gratuita ou digital. Ainda ex
 Um problema recorrente para os estudantes que precisam dessas obras é saber se existem nas bibliotecas das instituições e se estão disponíveis para consulta ou empréstimo.
 
 Como exemplo podemos ver que de acordo com o site da SNBP(Sistema Nacional de Bibliotecas Públicas)  a base de dados contava com 6.057 bibliotecas públicas no Brasil em 2015, número que caiu para 5.293 em 2020, de acordo com os dados mais recentes. (G1,2022) 
-(https://g1.globo.com/educacao/noticia/2022/07/16/brasil-perdeu-quase-800-bibliotecas-publicas-em-5-anos.ghtml)
 
 Diante disso, torna-se fundamental que existam plataformas que permitam a consulta da disponibilidade do livro na biblioteca, e uma forma prática de empréstimo e troca dos livros. Assim facilitando o aprendizado e desenvolvimento de conhecimento para diversos universitários e profissionais das mais diferentes áreas de conhecimento.
 
 ## Problema
 
-Conforme exposto, o projeto propõe a criação de uma plataforma para aumentar o acesso à livros e informação para o público. A plataforma permitirá a troca, empréstimo e reserva de livros físicos entre os usuários mediante suas necessidades.
 O problema que se busca resolver com este projeto é a dificuldade de consulta e empréstimo de livros acessíveis apenas em bibliotecas. 
 
 ## Objetivos
