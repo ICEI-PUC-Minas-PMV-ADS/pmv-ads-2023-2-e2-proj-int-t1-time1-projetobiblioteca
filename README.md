@@ -10,12 +10,12 @@ O objetivo geral do projeto é a criação de um sistema que permita o usuário 
 
 ## Integrantes
 
-*Ana Clara de Oliveira Ferreira
-*Gabriel Russo Grilo
-*Isaac Heder Ferreira Paulo
-*João Victor Martins Pereira
-*Lucas Henrique Vasconcelos Siqueira
-*Ricardo Gomes Vieira
+* Ana Clara de Oliveira Ferreira
+* Gabriel Russo Grilo
+* Isaac Heder Ferreira Paulo
+* João Victor Martins Pereira
+* Lucas Henrique Vasconcelos Siqueira
+* Ricardo Gomes Vieira
 
 ## Orientador
 
