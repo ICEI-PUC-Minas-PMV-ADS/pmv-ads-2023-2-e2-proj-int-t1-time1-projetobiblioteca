@@ -18,7 +18,7 @@ O objetivo geral do projeto é a criação de um sistema que permita o usuário 
 
 ## Orientador
 
-* Daniela Carvalho Monteiro Ferreira
+* ????
 
 ## Instruções de utilização
 
