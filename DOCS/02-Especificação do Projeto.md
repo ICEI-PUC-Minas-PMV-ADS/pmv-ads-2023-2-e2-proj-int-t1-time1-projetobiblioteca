@@ -57,8 +57,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF – 08 |	O sistema deve permitir que um usuário do tipo bibliotecário atualize informações dos livros.  | MÉDIA |
 |RF – 09 |	O sistema deve permitir que um usuário do tipo bibliotecário apague livros do sistema. | BAIXA |
 |RF – 10 |	O sistema deve gerar para o bibliotecário um relatório dos livros mais reservados. | MÉDIA |
-|RF – 11 |	O sistema deve gerar para o bibliotecário um relatório dos usuários que mais reservaram livros.
- | MÉDIA |
+|RF – 11 |	O sistema deve gerar para o bibliotecário um relatório dos usuários que mais reservaram livros. | MÉDIA |
 
 
 
