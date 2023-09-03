@@ -20,9 +20,9 @@ O objetivo geral do projeto é a criação de um sistema que permita o usuário 
 
 Objetivos específicos :
 
-Permitir que o usuário consulte os livros disponíveis na biblioteca.
-Fornecer funcionalidades que permitam ao usuário reservar o livro desejado. 
-Permitir que o usuário faça extensão do prazo de reserva ou devolva antecipadamente
+* Permitir que o usuário consulte os livros disponíveis na biblioteca.
+* Fornecer funcionalidades que permitam ao usuário reservar o livro desejado. 
+* Permitir que o usuário faça extensão do prazo de reserva ou devolva antecipadamente
 
 ## Justificativa
 
