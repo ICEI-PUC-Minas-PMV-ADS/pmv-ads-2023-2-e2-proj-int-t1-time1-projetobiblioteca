@@ -55,3 +55,7 @@ Assim que a primeira versão do sistema estiver disponível, as instruções de 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
 
 # Vídeo sobre o projeto
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/101235591/03cf7660-8b27-45a7-be1e-67bfeac6a638
+
