@@ -59,3 +59,19 @@ Done: Tarefas concluídas para entrega ao usuário após testes e controle de qu
 ## Backlog e Plano de Sprints
 
 ![Backlog e Plano de Sprints](IMG/BacklogEPlanoDeSprints.png)
+
+## Ferramentas
+
+As ferramentas empregadas no projeto são:
+
+|Ambiente |	Plataforma |	Link de Acesso|
+|---------|------------|------------------|
+| Repositório de código-fonte | GitHub |  |
+| Documentos do projeto | Google Drive |  |
+| Projeto de Interface e Wireframes | Figma |  |
+| Gerenciamento do Projeto | GitHub Projects |  |
+| Ferramenta para controle de versão | Git |  |
+| Comunicação | Teams/Whatsapp |  |
+| Diagramação | Lucid Chart/Astah UML |  |
+| Gerenciamento do código-fonte | Visual Studio 2019 |  |
+| Hospedagem da aplicação | Microsoft Azure |  |
