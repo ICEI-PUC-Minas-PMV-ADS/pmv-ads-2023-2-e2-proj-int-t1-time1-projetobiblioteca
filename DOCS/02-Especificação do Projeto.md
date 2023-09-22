@@ -71,9 +71,9 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF - 01 |	O site deve ser compatível com os principais navegadores do mercado. (Microsoft Edge, Google Chrome, Mozilla Firefox) | ALTA |
 |RNF - 02 | O sistema deve ser responsivo. | MÉDIA |
 |RNF - 03 | O sistema deve estar disponível 99% das 24 horas diárias. | ALTA |
-|RNF - 02 | O sistema deve estar alinhado com as normas de privacidade do cliente. | ALTA |
-|RNF - 02 | O sistema deverá informar ao usuário quando a mesma estiver em manutenção e/ou fora do ar. | MÉDIA |
-|RNF - 02 | O sistema deverá ter uma fácil usabilidade para o usuário. | MÉDIA |
+|RNF - 04 | O sistema deve estar alinhado com as normas de privacidade do cliente. | ALTA |
+|RNF - 05 | O sistema deverá informar ao usuário quando a mesma estiver em manutenção e/ou fora do ar. | MÉDIA |
+|RNF - 06 | O sistema deverá ter uma fácil usabilidade para o usuário. | MÉDIA |
 
 
 
