@@ -1,12 +1,12 @@
 # Plano de Testes de Usabilidade
-Os testes não funcionais a serem realizados no aplicativo são descritos a seguir:
+Os testes não funcionais a serem realizados na aplicação estão descritos a seguir:
 
-| **Caso de Teste** 	| **CT-12 - Compatibilidade** |                                                                                                       |
-|:---:	|:---:	|                                                                                                                                           |
-|	Requisito Associado | RNF - 01- O site deve ser compatível com os principais navegadores do mercado. (Microsoft Edge, Google Chrome, Mozilla Firefox). |  |
-| Objetivo do Teste | Verificar se o sistema é compatível com os principais navegadores do mercado. |                                                       |
-| Passos | 1. Acessar o navegador; <br> 2. Informar o endereço da aplicação;<br> 3. Testar em outros navegadores. |                                         |
-|Critério de Êxito | O sistema é compatível com os principais navegadores do mercado. |                                                                     |
+| **Caso de Teste** 	| **CT-12 - Compatibilidade** |                                                                                                       
+|:---:	|:---:	|                                                                                                                                           
+|	Requisito Associado | RNF - 01- O site deve ser compatível com os principais navegadores do mercado. (Microsoft Edge, Google Chrome, Mozilla Firefox). |  
+| Objetivo do Teste | Verificar se o sistema é compatível com os principais navegadores do mercado. |                                                       
+| Passos | 1. Acessar o navegador; <br> 2. Informar o endereço da aplicação;<br> 3. Testar em outros navegadores. |                                         
+|Critério de Êxito | O sistema é compatível com os principais navegadores do mercado. |                                                                     
 
 
 | **Caso de Teste** 	| CT-13 - Responsividade |
