@@ -6,6 +6,10 @@ O diagrama de classes a seguir ilustra como o software é estruturado. Para elab
 
 ![Diagrama de Classes](IMG/DiagramaClasses.png)
 
+## Modelo de Entidade de Relacionamento
+
+![Modelo de Entidade de Relacionamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/101235591/7c34cbac-9f9f-4f82-ae69-9334bc5fa94c)
+
 
 ## Projeto de Banco de Dados
 
