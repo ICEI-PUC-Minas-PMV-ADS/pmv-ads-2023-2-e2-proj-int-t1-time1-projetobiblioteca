@@ -3,7 +3,7 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
-O sistema é separado por dois tipos de úsuarios, sendo eles o perfil administrativo (administração) e o úsuario comum (professor), cada um com suas respectivas funções de uso.
+O sistema é separado por dois tipos de usuários, sendo eles o perfil administrativo (bibliotecário) e o perfil comum (leitor), cada um com suas respectivas funções de uso.
 
 ## Diagrama de Fluxo
 

@@ -9,8 +9,6 @@ foi utilizado para hospedagem do repositório.
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
@@ -66,12 +64,12 @@ As ferramentas empregadas no projeto são:
 
 |Ambiente |	Plataforma |	Link de Acesso|
 |---------|------------|------------------|
-| Repositório de código-fonte | GitHub |  |
-| Documentos do projeto | Google Drive |  |
-| Projeto de Interface e Wireframes | Figma |  |
-| Gerenciamento do Projeto | GitHub Projects |  |
-| Ferramenta para controle de versão | Git |  |
-| Comunicação | Teams/Whatsapp |  |
-| Diagramação | Lucid Chart/Astah UML |  |
-| Gerenciamento do código-fonte | Visual Studio 2019 |  |
-| Hospedagem da aplicação | Microsoft Azure |  |
+| Repositório de código-fonte | GitHub | <a href = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/blob/main/src/README.md">Código Fonte</a> |
+| Documentos do projeto | Google Drive | <a href = "https://drive.google.com/drive/my-drive">Google Drive</a> | 
+| Projeto de Interface e Wireframes | Figma | <a href = "https://www.figma.com/file/xLwVsaGTrVriXIO7UDrYHS/Untitled?type=whiteboard&node-id=0-1&t=MizTdqTCasVOP3NH-0">Figma</a> |
+| Gerenciamento do Projeto | GitHub Projects | <a href = "https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/530/views/2">GitHub Projects</a> |
+| Ferramenta para controle de versão | GitHub | <a href = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca">GitHub</a> |
+| Comunicação | Teams/Whatsapp | <a href = "https://teams.microsoft.com/l/team/19%3aeTb0SCBXr_muUslUI1ZgIMy4hqxkrApAbERWDoQcOug1%40thread.tacv2/conversations?groupId=5a1a3fe2-2b2b-4678-897f-1ff5fd3b29be&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161">Teams</a> |
+| Diagramação | Lucid Chart/Astah UML | <a href = "https://lucid.app/lucidchart/a80750a0-f9b4-4ba8-b12b-1df9a8e39c66/edit?page=.Q4MUjXso07N&invitationId=inv_00d2eed9-fb6a-4f8a-8e4a-c458931b290c#">Lucid Chart</a> |
+| Gerenciamento do código-fonte | Visual Studio 2022 | <a href = "https://visualstudio.microsoft.com/pt-br/vs/community/">Visual Studio</a> |
+| Hospedagem da aplicação | Microsoft Azure | <a href = "https://azure.microsoft.com/pt-br/">Azure</a> |
