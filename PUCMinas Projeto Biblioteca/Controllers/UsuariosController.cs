@@ -108,6 +108,8 @@ namespace PUCMinas_Projeto_Biblioteca.Controllers
         }
 
         // GET: Usuarios/Create
+        [AllowAnonymous]
+
         public IActionResult Create()
         {
             return View();
@@ -116,6 +118,8 @@ namespace PUCMinas_Projeto_Biblioteca.Controllers
         // POST: Usuarios/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [AllowAnonymous]
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome,senha,Perfil")] Usuario usuario)
