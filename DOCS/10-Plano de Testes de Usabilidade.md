@@ -36,4 +36,4 @@ Os testes não funcionais a serem realizados na aplicação estão descritos a s
 |	Requisito Associado | RNF - 06 - O sistema deverá ter uma fácil usabilidade para o usuário. |
 | Objetivo do Teste | Verificar se o sistema terá uma fácil usabilidade para o usuário. |
 | Passos | 1. Acessar o navegador; <br> 2. Informar o endereço da aplicação;<br> 3. Testar a aplicação e verificar se está de fácil entendimento ao usuário. |
-|Critério de Êxito | 	A aplicação possui usabilidade simples e fácil de ser compreendida. |
+|Critério de Êxito | 	A aplicação possui usabilidade simples e fácil de ser compreendida!!!!!!!!!!!! |
