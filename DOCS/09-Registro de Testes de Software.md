@@ -14,7 +14,7 @@ O sistema permite que o usuário faça alterações em suas próprias informaç�
 
 ![Captura da Web_22-10-2023_225142_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/d6d823bb-60cd-4aa7-88b6-00e6f2655cc1)
 
-## Plano de Teste 2 – Apagar conta
+## Plano de Teste 3 – Apagar conta
 O sistema  permite remover permanentemente a conta e os dados associados ao usuário do sistema do aplicativo.
 
 ![Captura da Web_22-10-2023_22530_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/bc420246-e7ed-42cf-b080-037ad8a84313)
