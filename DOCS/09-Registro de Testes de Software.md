@@ -9,4 +9,15 @@ Os campos do cadastro e os dados pessoais foram preenchidos corretamente. Após 
 
 ![Captura da Web_22-10-2023_222936_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/43630f38-d9d7-4a04-9b0f-ac8329f643f6)
 
+## Plano de Teste 2 – Editar o usuário
+O sistema permite que o usuário faça alterações em suas próprias informações.
+
+![Captura da Web_22-10-2023_225142_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/d6d823bb-60cd-4aa7-88b6-00e6f2655cc1)
+
+## Plano de Teste 2 – Apagar conta
+O sistema  permite remover permanentemente a conta e os dados associados ao usuário do sistema do aplicativo.
+
+![Captura da Web_22-10-2023_22530_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/bc420246-e7ed-42cf-b080-037ad8a84313)
+
+
 
