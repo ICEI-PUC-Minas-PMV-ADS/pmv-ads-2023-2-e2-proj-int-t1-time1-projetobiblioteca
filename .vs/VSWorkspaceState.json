@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PUCMinas Projeto Biblioteca",
+    "\\PUCMinas Projeto Biblioteca\\Controllers",
+    "\\PUCMinas Projeto Biblioteca\\Migrations",
+    "\\PUCMinas Projeto Biblioteca\\Models"
   ],
-  "SelectedNode": "\\PUCMinas Projeto Biblioteca",
+  "SelectedNode": "\\PUCMinas Projeto Biblioteca\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -36,11 +36,21 @@
             <td>
                 @Html.DisplayFor(modelItem => item.ISBN)
             </td>
+                @if (User.IsInRole("User")) {
+                   <td>
+                        <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                   </td> 
+
+                }
+
+
+                @if (User.IsInRole("Admin")) {
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
             </td>
+                }
         </tr>
 }
     </tbody>
