@@ -10,6 +10,9 @@ namespace PUCMinas_Projeto_Biblioteca.Models {
 
         public DbSet<Livros> Livros { get; set; }
 
+        public DbSet<Reserva> Reservas { get; set; }
+
+
 
     }
 }

@@ -22,6 +22,8 @@ namespace PUCMinas_Projeto_Biblioteca.Models {
             [Required(ErrorMessage = "Obrigatório informar o ISBN!")]
             public string ISBN { get; set; }
 
+            public ICollection<Reserva> Reservas { get; set; }
+
         }
     }
 

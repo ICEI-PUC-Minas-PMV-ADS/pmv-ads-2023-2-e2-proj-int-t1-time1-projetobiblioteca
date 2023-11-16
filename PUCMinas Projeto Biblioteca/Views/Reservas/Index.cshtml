@@ -1,0 +1,61 @@
+﻿@model IEnumerable<PUCMinas_Projeto_Biblioteca.Models.Reserva>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Índice dos livros reservados</h1>
+
+<p>
+    <a asp-action="Create">Reservar livro</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataReserva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Livro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuario.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataReserva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Livro.Autor)
+            </td>
+                @if (User.IsInRole("User")) {
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                    </td>
+
+                }
+                @if (User.IsInRole("Admin")) {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
+                    </td>
+                }
+        </tr>
+}
+    </tbody>
+</table>
