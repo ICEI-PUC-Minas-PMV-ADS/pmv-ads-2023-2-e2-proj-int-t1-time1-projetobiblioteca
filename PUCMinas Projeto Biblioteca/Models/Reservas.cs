@@ -10,7 +10,7 @@ namespace PUCMinas_Projeto_Biblioteca.Models {
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar o título!")]
-
+        [Display(Name = "Título")]
         public string Titulo { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar o usuário!")]
