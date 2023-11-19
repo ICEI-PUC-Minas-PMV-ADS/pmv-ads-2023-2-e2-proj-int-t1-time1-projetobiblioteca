@@ -1,0 +1,47 @@
+﻿@model IEnumerable<PUCMinas_Projeto_Biblioteca.Models.Reserva>
+
+@{
+    ViewData["Title"] = "Relatorio";
+}
+
+<h1>Relatório do livro: @ViewBag.Livro.Titulo</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataReserva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Livro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuario.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataReserva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Livro.Autor)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
