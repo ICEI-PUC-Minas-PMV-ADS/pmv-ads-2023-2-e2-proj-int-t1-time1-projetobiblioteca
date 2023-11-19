@@ -28,7 +28,7 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Titulo)
+                <a asp-action="Relatorio" asp-route-id="@item.Id">@item.Titulo</a>
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Autor)

@@ -156,5 +156,26 @@ namespace PUCMinas_Projeto_Biblioteca.Controllers
         {
           return _context.Livros.Any(e => e.Id == id);
         }
+
+        public async Task<IActionResult> Relatorio (int? id)
+        {
+            if(id == null) 
+                return NotFound();
+
+            var livro = await _context.Livros.FindAsync(id);
+
+            if (livro == null)
+                return NotFound();
+
+            var reservas = await _context.Reservas
+                .Where(c => c.LivroId == id)
+                .OrderByDescending(c => c.DataReserva)
+                .ToListAsync();
+
+            ViewBag.Livro = livro;
+
+
+        return View(reservas);    
+        }
     }
 }
