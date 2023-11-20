@@ -72,4 +72,4 @@ As ferramentas empregadas no projeto são:
 | Comunicação | Teams/Whatsapp | <a href = "https://teams.microsoft.com/l/team/19%3aeTb0SCBXr_muUslUI1ZgIMy4hqxkrApAbERWDoQcOug1%40thread.tacv2/conversations?groupId=5a1a3fe2-2b2b-4678-897f-1ff5fd3b29be&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161">Teams</a> |
 | Diagramação | Lucid Chart/Astah UML | <a href = "https://lucid.app/lucidchart/a80750a0-f9b4-4ba8-b12b-1df9a8e39c66/edit?page=.Q4MUjXso07N&invitationId=inv_00d2eed9-fb6a-4f8a-8e4a-c458931b290c#">Lucid Chart</a> |
 | Gerenciamento do código-fonte | Visual Studio 2022 | <a href = "https://visualstudio.microsoft.com/pt-br/vs/community/">Visual Studio</a> |
-| Hospedagem da aplicação | Microsoft Azure | <a href = "https://azure.microsoft.com/pt-br/">Azure</a> |
+| Hospedagem da aplicação | Microsoft Azure | <a href = "https://bibliotechpucminas.azurewebsites.net/">Azure</a> |
