@@ -5,8 +5,12 @@
 
 Relatório com as evidências dos testes de software realizados no sistema por uma pessoa, baseado em um plano de testes pré-definido.
 
-## Plano de Teste 1 - Criar Conta
-Os campos do cadastro e os dados pessoais foram preenchidos corretamente. Após preencher todos os campos, o cadastro deve ser concluído. Todos os testes realizados nesta etapa foram bem-sucedidos.
+CT-01 – Criar conta
+
+O usuário deve ser capaz de criar uma conta pessoal. Tanto usuários comuns podem se cadastrar e usuários admin podem criar novos perfis, logo a funcionalidade foi implementada com sucesso.
+
+[RF01.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/48e4e7e6-3248-42d2-adaf-c9351aa238e6)
+
 
 ![Captura da Web_22-10-2023_222936_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/43630f38-d9d7-4a04-9b0f-ac8329f643f6)
 
