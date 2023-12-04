@@ -11,9 +11,6 @@ O usuário deve ser capaz de criar uma conta pessoal. Tanto usuários comuns pod
 
 [RF01.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/48e4e7e6-3248-42d2-adaf-c9351aa238e6)
 
-
-![Captura da Web_22-10-2023_222936_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/43630f38-d9d7-4a04-9b0f-ac8329f643f6)
-
 ## Plano de Teste 2 – Editar o usuário
 O sistema permite que o usuário faça alterações em suas próprias informações.
 
