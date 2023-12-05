@@ -42,7 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, as instruções de 
 <li><a href="DOCS/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="DOCS/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
 <li><a href="DOCS/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="DOCS/12-Relatório Final de Testes.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="DOCS/12-Relatório Final de Testes.md"> Relatório Final de Testes</a></li>
 <li><a href="DOCS/13-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="DOCS/14-Referências.md"> Referências</a></li>
 </ol>
