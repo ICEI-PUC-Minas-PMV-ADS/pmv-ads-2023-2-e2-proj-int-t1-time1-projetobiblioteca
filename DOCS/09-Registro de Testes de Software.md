@@ -5,62 +5,91 @@
 
 Relatório com as evidências dos testes de software realizados no sistema por uma pessoa, baseado em um plano de testes pré-definido.
 
-CT-01 – Criar conta
+### CT-01 – Criar conta
 
-O usuário deve ser capaz de criar uma conta pessoal. Tanto usuários comuns podem se cadastrar e usuários admin podem criar novos perfis, logo a funcionalidade foi implementada com sucesso.
+O usuário deve ser capaz de criar uma conta. 
+
+Tanto usuários comuns podem se cadastrar e usuários admin podem criar novos perfis, logo a funcionalidade foi implementada com sucesso.
 
 [RF01.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/48e4e7e6-3248-42d2-adaf-c9351aa238e6)
 
-## Plano de Teste 2 – Editar o usuário
-O sistema permite que o usuário faça alterações em suas próprias informações.
+## CT-02 – Editar informações da conta⁣
 
-![Captura da Web_22-10-2023_225142_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/d6d823bb-60cd-4aa7-88b6-00e6f2655cc1)
+O usuário deve ser capaz de alterar informações da sua conta. 
 
-## Plano de Teste 3 – Apagar conta
-O sistema  permite remover permanentemente a conta e os dados associados ao usuário do sistema do aplicativo.
+Apenas usuários admin têm a opção de editar suas informações, logo essa funcionalidade está incompleta.
 
-![Captura da Web_22-10-2023_22530_localhost](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/bc420246-e7ed-42cf-b080-037ad8a84313)
+[RF02.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/4bf81b24-18ff-480d-99bc-605caff4519b)
 
-## Plano de Teste 4 – Mostrar uma lista com todos os livros disponíveis na biblioteca
-O sistema deve apresentar uma lista com todos os livros disponíveis na biblioteca
+## CT-03 – Apagar ⁣conta
+⁣
+O usuário deve ser capaz de permitir que o usuário apague sua conta.
 
-![Captura da Web_19-11-2023_231954_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/b7e2f72f-7844-4c49-8355-41efce5216c1)
+Apenas usuários admin têm a opção de apagar a sua conta, logo essa funcionalidade está incompleta.
 
-## Plano de Teste 5 – Visualizar todas as informações de um livro
-O sistema deve permitir que qualquer usuário visualize todas as informações de um livro selecionado na lista.
+[RF03.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/42b702df-dcac-47b2-b0da-3eead520ec9c)
 
-![Captura da Web_19-11-2023_233046_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/e7df77b9-a6bd-424e-b42a-0c251369fa4d)
+## CT-04 – Verificação da listagem de livros disponíveis na biblioteca⁣
+⁣
+O sistema deve apresentar uma lista com todo os livros disponíveis. 
 
-## Plano de Teste 6 – Reservar um livro que ainda não foi reservado
-O sistema deve permitir que um usuário reserve um livro que não esteja reservado ainda.
+A função de listagem de livros disponíveis na biblioteca está funcionando conforme o esperado.
 
-![Captura da Web_19-11-2023_233436_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/b84e4a8b-7f03-4102-aa41-a4fba3a59bb2)
+[RF04.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/9606d0b9-aea7-49dc-a2da-6d12f7e0b009)
 
-## Plano de Teste 7 – Usuário cadastrar novos livros
+## CT-05 – Visualizar todas as informações de um livro⁣
+⁣
+O sistema deve permitir que todos os usuários acessem e visualizem todas as informações detalhadas de qualquer livro presente na lista.
+
+Teste com sucesso.
+
+[RF05.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/6f821425-97a9-4d65-b5a8-257163c2fbd2)
+
+## CT-06 – Reservar um livro que ainda não foi reservado⁣
+⁣
+O sistema deve permitir que o usuário faça uma reserva de um livro que ainda não foi reservado.
+
+O sistema permite que o mesmo livro que já foi reservado por outro úsuario seja reservado por outro úsuario, logo essa funcionalidade encontra essa falha.⁣
+
+[RF06.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/2da38922-c0b5-438f-8659-07e3ce1b7400)
+
+## CT-7 – Usuário cadastrar novos livros
+
 O sistema deve permitir que usuários cadastrem novos livros. 
 
-![Captura da Web_19-11-2023_23335_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/47eb45e3-7d88-4c4f-9746-e045481bcdc1)
+O teste foi concluíno com êxito.
 
-## Plano de Teste 8 - Atualizar informações dos livros
+[RF07.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/db182987-62d5-4fb2-8051-28e7013de402)
+
+## CT-8 - Atualizar informações dos livros
+
 O sistema deve permitir que um usuário do tipo bibliotecário atualize informações dos livros. 
 
-![Captura da Web_19-11-2023_233734_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/1edf79e2-2e3f-4828-be64-c584a2ee6cea)
+Teste concluído com êxito.
 
-## Plano de Teste 9 – Apagar os livros do sistema 
+[RF08.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/132b36f5-d55e-4785-ad58-9b8f0a92d772)
+
+## CT-9 – Apagar os livros do sistema 
+
 O sistema deve permitir que um usuário do tipo bibliotecário apague livros do sistema.
 
-![Captura da Web_19-11-2023_23385_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/02dc21c4-4fc6-4bec-a04e-eb9bcdd65884)
+A funcionalidade foi implementada com êxito.
 
-## Plano de Teste 10 – Relatório dos livros mais reservados
+[RF09.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/d855a986-6931-41ca-b1a4-d8e6b54f14f2)
+
+## CT-10 – Relatório dos livros mais reservados
+
 O sistema deve gerar para o bibliotecário um relatório dos livros mais reservados.
 
-![Captura da Web_19-11-2023_233913_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/97b42c41-7a8a-47cb-8586-80996f4f615c)
+Funconalidade incompleta.
 
-## Plano de Teste 11 – Relatório dos usuários que mais reservaram livros
+## CT-11 – Relatório dos usuários que mais reservaram livros
+
 O sistema deve gerar para o bibliotecário um relatório dos usuários que mais reservaram livros.
 
-![Captura da Web_19-11-2023_234053_bibliotechpucminas azurewebsites net](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/9c5e712c-42c3-4a6b-a0a1-3e336cd979b0)
+Funcionalidade incompleta.
 
+[RF11.webm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca/assets/131215693/0a3847ca-75af-4143-8192-d1f7bc017337)
 
 
 
