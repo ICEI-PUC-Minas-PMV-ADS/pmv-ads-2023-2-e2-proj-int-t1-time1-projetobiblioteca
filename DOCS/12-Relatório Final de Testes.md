@@ -36,19 +36,19 @@ Logo abaixo serão apresentados os gráficos com as porcentagens das perguntas r
 
 ## Conclusão
 
-Os erros que os participantes encontraram na aplicação:⁣
+Em relação às sugestões dos participantes do teste de usabilidade, chegamos às seguintes conclusões para melhorar o sistema:
 
-• O usuário que não seja bibliotecário deveria conseguir editar/ excluir o próprio cadastro.⁣⁣
+• O usuário que não seja bibliotecário deve conseguir editar/ excluir o próprio cadastro.⁣
 
-⁣⁣
-• Deveria ser possível fazer o relatório de um livro só por usuário.⁣⁣
+⁣
+• Ser possível fazer o relatório de um único livro só por usuário.⁣
 
-⁣⁣
-• Ao cadastrar meu usuário o sistema nao me fornece o codigo do usuário, então fico sem saber com qual entrar.⁣⁣
+⁣
+• O usuário ao se cadastrar, o sistema forneça  o ID correto  do usuário.
 
+⁣
+⁣
 Essas sugestões de melhoria não foram feitas.
-
-
 
 
 
