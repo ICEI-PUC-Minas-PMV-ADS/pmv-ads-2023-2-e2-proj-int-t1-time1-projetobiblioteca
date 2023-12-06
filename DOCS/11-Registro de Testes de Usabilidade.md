@@ -1,6 +1,9 @@
+# Registro de Testes de Usabilidade
 
+<span style="color:red">Pré-requisitos: <a href="04-Projeto de Interface.md
+"> Projeto de Interface</a></span>, <a href="08-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a>
 
-
+Relatório com as evidências dos testes de usabilidade realizados no sistema por uma pessoa, baseado em um plano de testes pré-definido.
 
 
 ### CT-12 – Compatibilidade
