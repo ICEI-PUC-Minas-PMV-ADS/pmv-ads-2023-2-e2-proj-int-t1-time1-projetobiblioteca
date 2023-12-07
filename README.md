@@ -26,7 +26,11 @@ Propõe-se a criação de um sistema que permita o usuário ter fácil acesso a 
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, as instruções de utilização serão divulgadas neste espeço.
+Assim que a primeira versão do sistema estiver disponível, as instruções de utilização serão divulgadas neste espeço
+Descreva como instalar eventuais dependências e como executar a aplicação.
+
+link da aplicação interativa disponível para acesso: https://bibliotechpucminas.azurewebsites.net/
+
 
 # Documentação
 
