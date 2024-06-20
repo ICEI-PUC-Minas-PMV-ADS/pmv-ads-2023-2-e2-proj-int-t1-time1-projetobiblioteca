@@ -1,8 +1,8 @@
 message: Please cite this software using these metadata.
-title:
+title: Bibliotech
 authors:
-  - family-names: 
-    given-names: 
+  - family-names: Gomes Vieira
+    given-names: Ricardo
   - family-names: 
     given-names: 
   - family-names: 
@@ -15,15 +15,15 @@ authors:
     given-names: 
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Ribeiro da Mota
+    given-names: Rosilane
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: 
     given-names: 
 keywords:
-  - 
-  - 
-repository-code: 
+  - Biblioteca
+  - Livros
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time1-projetobiblioteca
 version: 1.0.0
 date-released: 2023-10-31
